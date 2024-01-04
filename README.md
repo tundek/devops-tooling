@@ -143,7 +143,7 @@ and add the following line
 ```
 
 ##### Output
-<img src="images/image-8.png" width="700">
+<img src="images/Image-8.png" width="700">
 
 <img src="images/image9.jpg" width="700">
 
