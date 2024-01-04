@@ -99,7 +99,7 @@ Let us install and configure a mySQL server to work with Webserver
 Grant permission to `webaccess` user on the `tooling` DB to do anything only on the subnet CIDR (172.31.32.0/20) in this case.
 
 ##### Output
-<img src="images/image8.png" width="700">
+<img src="images/Image8.png" width="700">
 
 
 ### Prepare the Webservers
@@ -143,7 +143,7 @@ and add the following line
 ```
 
 ##### Output
-<img src="images/Image-8.png" width="700">
+<img src="images/image-8.png" width="700">
 
 <img src="images/image9.jpg" width="700">
 
